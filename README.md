@@ -13,7 +13,7 @@ Para ejecutar este proyecto en un entorno local, se requiere la instalación de 
 
 1. Clona este repositorio en tu máquina local:
    ```bash
-   git clone <tu-enlace-de-github>
+   git clone https://github.com/FabrizzioMSH/Reto-QA-Back.git
 
 2. Navega hasta la raíz del proyecto, que es donde se encuentra el archivo `pom.xml`:
    ```bash
