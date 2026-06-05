@@ -8,6 +8,8 @@ function fn() {
   var config = {
     baseUrl: 'https://serverest.dev'
   }
+
+  karate.configure('ssl', {trustAll: true});
   
   return config;
 }
